@@ -1,8 +1,6 @@
-### Olá! Eu sou o Jonas Alexandrino 🖐️
+### Olá! Seja bem vindo ao meu perfil! 🖐️
 
-Olá! Seja bem vindo ao meu perfil!
-
-Profissional de TI atuando como analista responsável por dashboards, KPI’s, base de dados e relatórios gerenciais. Ao longo dessa trajetória pude conhecer mais a fundo a área de dados ao qual me dedico hoje em estudos, me qualificando para direcionar minha carreira e me tornar engenheiro de dados. Dentre minhas principais habilidade posso destacar minha vivência com análise de dados, SQL, Postgres e Python. 
+Profissional de TI atuando como analista responsável por dashboards, KPI’s, base de dados e relatórios gerenciais. Ao longo dessa trajetória pude conhecer mais a fundo a área de dados ao qual me dedico hoje em estudos, me qualificando para direcionar minha carreira e me tornar engenheiro de dados. Dentre minhas principais habilidade posso destacar minha vivência com análise de dados, SQL, Postgres, Power BI e Python. 
 Sou muito curioso, estou sempre buscando novos conhecimentos, desenvolvendo minhas soft skills para ser um profissional mais completo a cada dia e pronto para qualquer desafio.
 
 Estou à disposição para batermos um papo!!
