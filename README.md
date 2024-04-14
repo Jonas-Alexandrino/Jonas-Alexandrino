@@ -1,9 +1,17 @@
 ### Olá! Seja bem vindo ao meu perfil! 🖐️
 
-Profissional de TI atuando como analista responsável por dashboards, KPI’s, base de dados e relatórios gerenciais. Ao longo dessa trajetória pude conhecer mais a fundo a área de dados ao qual me dedico hoje em estudos, me qualificando para direcionar minha carreira e me tornar engenheiro de dados. Dentre minhas principais habilidade posso destacar minha vivência com análise de dados, SQL, Banco de Dados, Power BI e Python. 
-Sou muito curioso, estou sempre buscando novos conhecimentos, desenvolvendo minhas soft skills para ser um profissional mais completo a cada dia e pronto para qualquer desafio.
+Sou um profissional de TI com experiência como analista, focado em dashboards, KPIs, bases de dados e relatórios gerenciais. Minha trajetória me permitiu aprofundar meu conhecimento na área de dados, na qual atualmente me dedico a estudos para me tornar um engenheiro de dados.
 
-Estou à disposição para batermos um papo!!
+Minhas principais habilidades incluem:
+
+Análise de dados: Tenho vivência na interpretação e extração de insights a partir de conjuntos de dados.
+SQL: Sou proficiente em consultas SQL para manipulação e extração de informações de bancos de dados.
+Banco de Dados: Trabalho com gerenciamento e modelagem de bancos de dados.
+Power BI: Desenvolvo dashboards interativos e visualizações de dados.
+Python: Utilizo Python para automação, análise e processamento de dados.
+Minha curiosidade é insaciável, e estou sempre em busca de novos conhecimentos. Além disso, estou constantemente desenvolvendo minhas soft skills para me tornar um profissional mais completo a cada dia. Estou pronto para enfrentar qualquer desafio que a área de dados possa me apresentar.
+
+Vamos bater um papo! Estou à disposição para trocar ideias e compartilhar experiências. 😊
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasalexandrino/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonas-Alexandrino)
