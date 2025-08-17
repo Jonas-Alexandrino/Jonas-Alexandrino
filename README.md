@@ -22,10 +22,14 @@ Vamos bater um papo! Estou à disposição para trocar ideias e compartilhar exp
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img align="center" alt="R" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="Tableau" src="[https://img.shields.io/badge/](https://img.shields.io/badge/)Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="Power BI" src="[https://img.shields.io/badge/](https://img.shields.io/badge/)power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img align="center" alt="Figma" src="[https://img.shields.io/badge/](https://img.shields.io/badge/)figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 ### Contato:
