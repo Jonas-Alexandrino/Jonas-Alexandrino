@@ -1,15 +1,21 @@
 ### Olá! Seja bem vindo ao meu perfil! 🖐️
 
-Sou um profissional de TI com experiência como analista, focado em dashboards, KPIs, bases de dados e relatórios gerenciais. Minha trajetória me permitiu aprofundar meu conhecimento na área de dados, na qual atualmente me dedico a estudos para me tornar um engenheiro de dados.
+💼 Sobre mim
+Sou Analista de Dados com experiência profissional desde 2015, tendo atuado em funções técnicas e como analista operacional. Nos últimos 2 anos, venho me dedicando à área de dados, com foco em inteligência de negócios, automação de processos analíticos e comunicação de insights estratégicos.
 
-Minhas principais habilidades incluem:
+Sou certificado pelo Google Data Analytics, o que comprova minha proficiência em análise de dados, boas práticas de visualização e tomada de decisão orientada por dados.
 
-Análise de dados: Tenho vivência na interpretação e extração de insights a partir de conjuntos de dados.
-SQL: Sou proficiente em consultas SQL para manipulação e extração de informações de bancos de dados.
-Banco de Dados: Trabalho com gerenciamento e modelagem de bancos de dados.
-Power BI: Desenvolvo dashboards interativos e visualizações de dados.
-Python: Utilizo Python para automação, análise e processamento de dados.
-Minha curiosidade é insaciável, e estou sempre em busca de novos conhecimentos. Além disso, estou constantemente desenvolvendo minhas soft skills para me tornar um profissional mais completo a cada dia. Estou pronto para enfrentar qualquer desafio que a área de dados possa me apresentar.
+🧠 Minhas principais habilidades:
+SQL: Consultas eficientes para extração e manipulação de dados.
+Python: Aplicado à ciência de dados, automação e tratamento de dados.
+Power BI: Dashboards interativos e relatórios gerenciais com storytelling.
+ETL: Criação de fluxos de dados limpos e estruturados.
+Banco de Dados: Modelagem, manutenção e análise de performance.
+Design de Apresentações: Visualizações profissionais voltadas à tomada de decisão.
+IA aplicada à análise de dados: Uso de ferramentas e modelos para enriquecer insights.
+Tenho vivência em setores como bancário, energia e tecnologia, o que me permite adaptar soluções a diferentes contextos de negócio.
+
+Sou movido por curiosidade e aprendizado contínuo, sempre buscando evoluir tanto em habilidades técnicas quanto em soft skills, como comunicação, colaboração e visão estratégica.
 
 Vamos bater um papo! Estou à disposição para trocar ideias e compartilhar experiências. 😊
 
@@ -27,9 +33,9 @@ Vamos bater um papo! Estou à disposição para trocar ideias e compartilhar exp
   <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img align="center" alt="Tableau" src="(https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-   badge&logo=figma&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 ### Contato:
