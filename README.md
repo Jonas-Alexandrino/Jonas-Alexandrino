@@ -1,21 +1,24 @@
 ### Olá! Seja bem vindo ao meu perfil! 🖐️
 
-💼 Sobre mim
-Sou Analista de Dados com experiência profissional desde 2015, tendo atuado em funções técnicas e como analista operacional. Nos últimos 2 anos, venho me dedicando à área de dados, com foco em inteligência de negócios, automação de processos analíticos e comunicação de insights estratégicos.
+## 💼 Sobre mim
 
-Sou certificado pelo Google Data Analytics, o que comprova minha proficiência em análise de dados, boas práticas de visualização e tomada de decisão orientada por dados.
+Sou **Analista de Dados** com experiência profissional desde **2015**, tendo atuado em funções técnicas e como **analista operacional**. Nos últimos **2 anos**, venho me dedicando à área de **dados**, com foco em **inteligência de negócios**, **automação de processos analíticos** e **comunicação de insights estratégicos**.
 
-🧠 Minhas principais habilidades:
-SQL: Consultas eficientes para extração e manipulação de dados.
-Python: Aplicado à ciência de dados, automação e tratamento de dados.
-Power BI: Dashboards interativos e relatórios gerenciais com storytelling.
-ETL: Criação de fluxos de dados limpos e estruturados.
-Banco de Dados: Modelagem, manutenção e análise de performance.
-Design de Apresentações: Visualizações profissionais voltadas à tomada de decisão.
-IA aplicada à análise de dados: Uso de ferramentas e modelos para enriquecer insights.
-Tenho vivência em setores como bancário, energia e tecnologia, o que me permite adaptar soluções a diferentes contextos de negócio.
+Sou certificado pelo **Google Data Analytics**, o que comprova minha proficiência em análise de dados, boas práticas de visualização e tomada de decisão orientada por dados.
 
-Sou movido por curiosidade e aprendizado contínuo, sempre buscando evoluir tanto em habilidades técnicas quanto em soft skills, como comunicação, colaboração e visão estratégica.
+## 🧠 Minhas principais habilidades
+
+- **SQL**: Consultas eficientes para extração e manipulação de dados.
+- **Python**: Aplicado à ciência de dados, automação e tratamento de dados.
+- **Power BI**: Dashboards interativos e relatórios gerenciais com storytelling.
+- **ETL**: Criação de fluxos de dados limpos e estruturados.
+- **Banco de Dados**: Modelagem, manutenção e análise de performance.
+- **Design de Apresentações**: Visualizações profissionais voltadas à tomada de decisão.
+- **IA aplicada à análise de dados**: Uso de ferramentas e modelos para enriquecer insights.
+
+Tenho vivência em setores como **bancário**, **energia** e **tecnologia**, o que me permite adaptar soluções a diferentes contextos de negócio.
+
+Sou movido por **curiosidade e aprendizado contínuo**, sempre buscando evoluir tanto em habilidades técnicas quanto em **soft skills**, como comunicação, colaboração e visão estratégica.
 
 Vamos bater um papo! Estou à disposição para trocar ideias e compartilhar experiências. 😊
 
